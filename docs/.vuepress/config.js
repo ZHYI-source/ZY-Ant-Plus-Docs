@@ -9,7 +9,7 @@ module.exports = {
         // logo: '/logo.png',
         nav: [
             { text: "首页", link: "/" },
-            { text: "文档教程", link: "/guide/" },
+            { text: "文档教程", link: "/guide/intro/" },
             { text: "在线预览", link: "http://admin.zhouyi.run/#/index" },
             {
                 text: "关于作者",
@@ -25,10 +25,11 @@ module.exports = {
         colorModeSwitch:true,
         toggleColorMode:true,
         sidebar: [
+            '/guide/intro/',
             '/guide/',
+            '/guide/server/',
             '/guide/admin/',
             '/guide/client/',
-            '/guide/server/',
         ],
         lastUpdated: 'Last Updated',
         toggleSidebar:true,

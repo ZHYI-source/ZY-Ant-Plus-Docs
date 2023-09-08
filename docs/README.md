@@ -4,7 +4,7 @@ heroImage: /logo.png
 heroText: Vue3-Antd-Plus
 tagline: 👍开箱即用的前后端分离管理系统
 actionText: 快速上手 →
-actionLink: /guide/
+actionLink: /guide/intro/
 
 altActionText: 在线预览
 altActionLink: http://admin.zhouyi.run
@@ -32,32 +32,7 @@ MIT Licensed | Copyright © 2023-present [ZHOUYI](https://gitee.com/Z568_568)
 :::
 
 
-![Vue3](https://img.shields.io/badge/-Vue-34495e?logo=vue.js)
-![HTML5](https://img.shields.io/badge/-HTML5-red?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-blue?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=white)
-![node](https://img.shields.io/badge/-Nodejs-red?logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-green?logo=Express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-yellow?logo=MongoDB&logoColor=white)
-![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
 
-<img  src="/xmind.png">
-
-### 项目部分截图
-
-<img  src="/img.png" width = "300" height = "150">
-<img src="/img_1.png" width = "300" height = "150">
-<img src="/img_2.png" width = "300" height = "150">
-<img src="/img_3.png" width = "300" height = "150">
-<img src="/img_4.png" width = "300" height = "150">
-<img src="/img_10.png" width = "300" height = "150">
-<img src="/img_11.png" width = "300" height = "150">
-<img src="/img_12.png" width = "300" height = "150">
-<img src="/img_5.png" width = "300" height = "150">
-<img src="/img_5.png" width = "300" height = "150">
-<img src="/img_13.png" width = "300" height = "150">
-
- 
 
 
 ###  赞赏作者

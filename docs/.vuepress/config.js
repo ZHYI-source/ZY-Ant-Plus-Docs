@@ -25,11 +25,37 @@ module.exports = {
         colorModeSwitch:true,
         toggleColorMode:true,
         sidebar: [
-            '/guide/intro/',
-            '/guide/',
-            '/guide/server/',
-            '/guide/admin/',
-            '/guide/client/',
+            {
+                title: '介绍',   // 必要的
+                path: '/guide/intro/',      // 可选的, 标题的跳转链接，应为绝对路径且必须存在
+                collapsable: true, // 可选的, 默认值是 true,
+                sidebarDepth: 1,    // 可选的, 默认值是 1
+            },
+            {
+                title: '开始',   // 必要的
+                children: [
+                    '/guide/'
+                ]
+            },
+            {
+                title: '服务端',   // 必要的
+                sidebarDepth: 2,
+                children: [
+                    '/guide/server/'
+                ]
+            },
+            {
+                title: '管理端',   // 必要的
+                children: [
+                    '/guide/admin/'
+                ]
+            },
+            {
+                title: '客户端',   // 必要的
+                children: [
+                    '/guide/client/'
+                ]
+            },
         ],
         lastUpdated: 'Last Updated',
         toggleSidebar:true,

@@ -4,6 +4,7 @@ module.exports = {
     head: [
         ['link', { rel: 'icon', href: '/logo.png' }]
     ],
+    base:'/vue3-antd-plus/',
     description: '👍 后台管理系统提供了一个基于最新的技术栈（Vue 3、Vite、Ant Design Vue 3、JavaScript、Pinia、Hooks和vue-router）的完整开发模板，旨在帮助初学者更快地入门并加入团队开发。该模板包含了一系列功能模块，如大屏展示、自定义主题、角色用户、菜单授权、数据权限和系统参数等，并且所有模块都经过了完整的组件封装',
     themeConfig: {
         // logo: '/logo.png',

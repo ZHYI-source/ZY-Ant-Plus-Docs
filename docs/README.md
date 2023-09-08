@@ -37,8 +37,8 @@ MIT Licensed | Copyright © 2023-present [ZHOUYI](https://gitee.com/Z568_568)
 
 ###  赞赏作者
 
- <img src="/img_7.png" width = "150" height = "150" alt="图片名称" align=center />
- <img src="/img_8.png" width = "150" height = "150" alt="图片名称" align=center />
+ <img src="/vue3-antd-plus/img_7.png" width = "150" height = "150" alt="图片名称" align=center />
+ <img src="/vue3-antd-plus/img_8.png" width = "150" height = "150" alt="图片名称" align=center />
 
 ### 版权
 

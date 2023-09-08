@@ -24,7 +24,7 @@ title:介绍
 ![MongoDB](https://img.shields.io/badge/-MongoDB-yellow?logo=MongoDB&logoColor=white)
 ![MIT License](https://img.shields.io/badge/License-MIT-green.svg)
 
-<img  src="/xmind.png">
+<img  src="/vue3-antd-plus/xmind.png">
 
 ## 结构
 
@@ -35,15 +35,14 @@ title:介绍
 
 ## 截图
 
-<img  src="/img.png" width = "300" height = "150">
-<img src="/img_1.png" width = "300" height = "150">
-<img src="/img_2.png" width = "300" height = "150">
-<img src="/img_3.png" width = "300" height = "150">
-<img src="/img_4.png" width = "300" height = "150">
-<img src="/img_10.png" width = "300" height = "150">
-<img src="/img_11.png" width = "300" height = "150">
-<img src="/img_12.png" width = "300" height = "150">
-<img src="/img_5.png" width = "300" height = "150">
-<img src="/img_5.png" width = "300" height = "150">
-<img src="/img_13.png" width = "300" height = "150">
+<img  src="/vue3-antd-plus/img.png" width = "300" height = "150">
+<img src="/vue3-antd-plus/img_1.png" width = "300" height = "150">
+<img src="/vue3-antd-plus/img_2.png" width = "300" height = "150">
+<img src="/vue3-antd-plus/img_3.png" width = "300" height = "150">
+<img src="/vue3-antd-plus/img_4.png" width = "300" height = "150">
+<img src="/vue3-antd-plus/img_10.png" width = "300" height = "150">
+<img src="/vue3-antd-plus/img_11.png" width = "300" height = "150">
+<img src="/vue3-antd-plus/img_12.png" width = "300" height = "150">
+<img src="/vue3-antd-plus/img_5.png" width = "300" height = "150">
+<img src="/vue3-antd-plus/img_13.png" width = "300" height = "150">
 

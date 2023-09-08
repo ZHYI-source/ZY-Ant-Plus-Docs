@@ -118,9 +118,9 @@ npm i
 3. 创建数据库`my_db`- 找到`SERVER`项目内sql文件(`SERVER/sql/my_db.sql`)-选择执行sql文件-出现下图即可成功
 
 
-![navicat](/post/start/img.png)
+![navicat](/vue3-antd-plus/post/start/img.png)
 
-![navicat](/post/start/img_1.png)
+![navicat](/vue3-antd-plus/post/start/img_1.png)
 
 
 ## 启动项目

@@ -1,0 +1,20 @@
+{
+  "name": "ZY-Ant-Plus-Docs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "ZHOUYI",
+  "license": "MIT",
+  "devDependencies": {
+    "@vuepress/plugin-back-to-top": "^1.9.10",
+    "@vuepress/plugin-nprogress": "^1.9.10",
+    "vuepress": "^1.9.10"
+  },
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs"
+  },
+  "dependencies": {
+    "vue": "2.7.14",
+    "vue-server-renderer": "^2.7.14"
+  }
+}

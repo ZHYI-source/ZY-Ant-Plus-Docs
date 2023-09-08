@@ -24,7 +24,12 @@ module.exports = {
         displayAllHeaders: true,
         colorModeSwitch:true,
         toggleColorMode:true,
-        sidebar: ['/guide/'],
+        sidebar: [
+            '/guide/',
+            '/guide/admin/',
+            '/guide/client/',
+            '/guide/server/',
+        ],
         lastUpdated: 'Last Updated',
         toggleSidebar:true,
         nextLinks: true,

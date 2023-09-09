@@ -127,6 +127,8 @@ npm i
 
 启动项目需要各个端单独启动
 
+启动顺序可按照 服务端-前端
+
+- [启动 SERVER 服务端](/guide/server/)
 - [启动 CLIENT 客户端](/guide/client/)
 - [启动 ADMIN 管理端](/guide/admin/)
-- [启动 SERVER 服务端](/guide/server/)

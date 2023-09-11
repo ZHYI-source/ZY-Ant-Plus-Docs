@@ -99,6 +99,10 @@ cd SERVER
 npm i
 ```
 
+### 安装依赖成功
+
+![npm-i](/vue3-antd-plus/post/start/npm-i.png)
+
 ### 安装依赖失败
 
 1. 如果哪个项目端执行`npm i` 安装失败或报错？
